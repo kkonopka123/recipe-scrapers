@@ -8,3 +8,4 @@ pytest>=6.1.1
 unittest-parallel>=1.5.0
 # language-tags>=1.0.0
 # tld>=0.12.3
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
